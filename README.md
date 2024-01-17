@@ -1,2 +1,2 @@
 # VoxelEngine
-Voxel engino for Unity
+Voxel engine for Unity
